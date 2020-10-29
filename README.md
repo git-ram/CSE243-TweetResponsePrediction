@@ -1,2 +1,2 @@
 # CSE243-TweetResponsePrediction
-The project for CSE 243 Data Mining course at UC Santa Cruz, Fall 2020. 
+This is a project for CSE 243 Data Mining course at UC Santa Cruz, Fall 2020. 
