@@ -127,4 +127,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-glove.twitter.27B.100d.txt
